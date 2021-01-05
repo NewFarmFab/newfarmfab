@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: #ffd584;
+  color: #84ffad;
   text-decoration: none;
 }
 
@@ -261,7 +261,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Get Startet Button */
 .get-started-btn {
-  color: #fff;
+  color: rgb(255, 255, 255);
   border-radius: 4px;
   padding: 7px 25px 8px 25px;
   white-space: nowrap;
@@ -272,7 +272,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #ffbb38;
+  background: #38ff49;
   color: #343a40;
 }
 
@@ -1263,7 +1263,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #ffcd6b;
+  background: #84ffad;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1558,7 +1558,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #ffcd6b;
+  background: #6bff84;
 }
 
 #footer .copyright {
